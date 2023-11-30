@@ -1,0 +1,12 @@
+body{
+  font-family: Tomorrow;
+  font-style: normal;
+  padding: 10%;
+  overflow: hidden;
+}
+
+@media (max-width: 499px){
+  body{
+    padding-top: 20%;
+  }
+}
